@@ -1,0 +1,143 @@
+2021-11-24T16:49:58.956537+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-24T16:50:41.189200+0300 INFO receiving request...
+2021-11-24T16:52:28.658438+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-24T16:52:38.188491+0300 INFO receiving request...
+2021-11-24T16:53:17.532468+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-24T16:53:25.916485+0300 INFO receiving request...
+2021-11-24T16:53:26.524320+0300 INFO Send request from ('127.0.0.1', 43576) to validation server
+2021-11-24T16:54:15.853984+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-24T16:54:25.923427+0300 INFO receiving request...
+2021-11-24T16:54:26.204876+0300 INFO Send request from ('127.0.0.1', 43584) to validation server
+2021-11-24T16:55:41.640642+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-24T16:55:49.613083+0300 INFO receiving request...
+2021-11-24T16:55:49.922612+0300 INFO Send request from ('127.0.0.1', 43594) to validation server
+2021-11-24T16:57:38.336067+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-24T16:57:46.739998+0300 INFO receiving request...
+2021-11-24T16:57:46.835799+0300 INFO Send request from ('127.0.0.1', 43604) to validation server
+2021-11-24T16:58:18.753061+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-24T16:58:25.952188+0300 INFO receiving request...
+2021-11-24T16:58:26.094798+0300 INFO Send request from ('127.0.0.1', 43614) to validation server
+2021-11-24T16:59:45.322090+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-24T16:59:54.297314+0300 INFO receiving request...
+2021-11-24T16:59:54.421576+0300 INFO Send request from ('127.0.0.1', 43622) to validation server
+2021-11-24T17:01:25.735859+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-24T17:01:34.347260+0300 INFO receiving request...
+2021-11-24T17:01:34.462062+0300 INFO Send request from ('127.0.0.1', 43638) to validation server
+2021-11-24T17:02:59.827370+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-24T17:03:17.263413+0300 INFO receiving request...
+2021-11-24T17:03:17.579027+0300 INFO Send request from ('127.0.0.1', 43654) to validation server
+2021-11-24T17:05:01.460502+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-24T17:05:12.215705+0300 INFO receiving request...
+2021-11-24T17:05:12.413836+0300 INFO Send request from ('127.0.0.1', 43670) to validation server
+2021-11-24T17:05:44.035792+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-24T17:05:52.486898+0300 INFO receiving request...
+2021-11-24T17:05:52.557637+0300 INFO Send request from ('127.0.0.1', 43676) to validation server
+2021-11-24T17:07:36.212431+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-24T17:07:46.290781+0300 INFO receiving request...
+2021-11-24T17:08:05.372846+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-24T17:08:14.604284+0300 INFO receiving request...
+2021-11-24T17:09:16.953184+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-24T17:09:25.413846+0300 INFO receiving request...
+2021-11-24T17:09:25.646061+0300 INFO Send request from ('127.0.0.1', 43710) to validation server
+2021-11-24T17:09:54.330737+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-24T17:10:03.094188+0300 INFO receiving request...
+2021-11-24T17:10:03.213382+0300 INFO Send request from ('127.0.0.1', 43720) to validation server
+2021-11-24T17:14:25.690699+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-24T17:14:33.896131+0300 INFO receiving request...
+2021-11-24T17:14:34.080532+0300 INFO Send request from ('127.0.0.1', 43744) to validation server
+2021-11-24T17:16:05.146363+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-24T17:16:16.056687+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-24T17:16:23.171639+0300 INFO receiving request...
+2021-11-24T17:16:23.369649+0300 INFO Send request from ('127.0.0.1', 43752) to validation server
+2021-11-24T17:20:54.504093+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-24T17:21:03.811263+0300 INFO receiving request...
+2021-11-24T17:23:28.596036+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-24T17:23:35.681353+0300 INFO receiving request...
+2021-11-24T17:23:35.946958+0300 INFO Send request from ('127.0.0.1', 43798) to validation server
+2021-11-24T17:24:21.205052+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-24T17:24:32.690054+0300 INFO receiving request...
+2021-11-24T17:24:32.935439+0300 INFO Send request from ('127.0.0.1', 43810) to validation server
+2021-11-24T17:28:16.227879+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-24T17:28:21.236707+0300 INFO receiving request...
+2021-11-24T17:28:21.514812+0300 INFO Send request from ('127.0.0.1', 43832) to validation server
+2021-11-25T16:54:48.967337+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-25T16:55:06.967245+0300 INFO receiving request...
+2021-11-25T16:55:07.293884+0300 INFO Send request from ('127.0.0.1', 41692) to validation server
+2021-11-25T16:55:07.370422+0300 INFO Close connection with validation server
+2021-11-25T16:55:07.370913+0300 INFO request processing allowed
+2021-11-25T16:55:32.638646+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-25T16:55:39.923385+0300 INFO receiving request...
+2021-11-25T16:55:39.984457+0300 INFO Send request from ('127.0.0.1', 41696) to validation server
+2021-11-25T16:55:40.019705+0300 INFO Close connection with validation server
+2021-11-25T16:56:48.970792+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-25T16:56:57.304368+0300 INFO receiving request...
+2021-11-25T16:56:57.990525+0300 INFO Send request from ('127.0.0.1', 41708) to validation server
+2021-11-25T16:56:58.048636+0300 INFO Close connection with validation server
+2021-11-25T16:57:47.117969+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-25T16:57:56.775881+0300 INFO receiving request...
+2021-11-25T16:57:56.838809+0300 INFO Send request from ('127.0.0.1', 41722) to validation server
+2021-11-25T16:57:56.886412+0300 INFO Close connection with validation server
+2021-11-25T16:58:37.107352+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-25T16:58:44.729141+0300 INFO receiving request...
+2021-11-25T16:58:44.852943+0300 INFO Send request from ('127.0.0.1', 41730) to validation server
+2021-11-25T16:59:04.548902+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-25T16:59:11.484257+0300 INFO receiving request...
+2021-11-25T16:59:11.537055+0300 INFO Send request from ('127.0.0.1', 41738) to validation server
+2021-11-25T16:59:37.384951+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-25T16:59:44.922050+0300 INFO receiving request...
+2021-11-25T16:59:45.245657+0300 INFO Send request from ('127.0.0.1', 41746) to validation server
+2021-11-25T16:59:45.348840+0300 INFO Close connection with validation server
+2021-11-25T16:59:45.349274+0300 INFO request processing allowed
+2021-11-25T17:01:28.671135+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-25T17:01:35.331134+0300 INFO receiving request...
+2021-11-25T17:01:35.453887+0300 INFO Send request from ('127.0.0.1', 41756) to validation server
+2021-11-25T17:01:35.495439+0300 INFO Close connection with validation server
+2021-11-25T17:01:35.496176+0300 INFO request processing allowed
+2021-11-25T17:04:05.100155+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-25T17:04:12.164716+0300 INFO receiving request...
+2021-11-25T17:04:12.436603+0300 INFO Send request from ('127.0.0.1', 41772) to validation server
+2021-11-25T17:04:12.538116+0300 INFO Close connection with validation server
+2021-11-25T17:04:12.538625+0300 INFO request processing allowed
+2021-11-25T17:09:59.721862+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-25T17:10:06.757653+0300 INFO receiving request...
+2021-11-25T17:10:06.886260+0300 INFO Send request from ('127.0.0.1', 41812) to validation server
+2021-11-25T17:10:06.990756+0300 INFO Close connection with validation server
+2021-11-25T17:10:06.991164+0300 INFO request processing allowed
+2021-11-25T17:12:59.122571+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-25T17:13:05.712003+0300 INFO receiving request...
+2021-11-25T17:13:06.917565+0300 INFO Send request from ('127.0.0.1', 41832) to validation server
+2021-11-25T17:13:06.966371+0300 INFO Close connection with validation server
+2021-11-25T17:13:06.967185+0300 INFO request processing allowed
+2021-11-25T17:14:30.369200+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-25T17:14:39.181385+0300 INFO receiving request...
+2021-11-25T17:14:39.342541+0300 INFO Send request from ('127.0.0.1', 41850) to validation server
+2021-11-25T17:14:39.378738+0300 INFO Close connection with validation server
+2021-11-25T17:14:39.379118+0300 INFO request processing allowed
+2021-11-25T17:15:06.968219+0300 INFO Serving on ('0.0.0.0', 8080)
+2021-11-25T17:15:14.139098+0300 INFO receiving request...
+2021-11-25T17:15:14.193340+0300 INFO Send request from ('127.0.0.1', 41858) to validation server
+2021-11-25T17:15:14.229053+0300 INFO Close connection with validation server
+2021-11-25T17:15:14.229704+0300 INFO request processing allowed
+2021-11-25T17:15:14.232123+0300 INFO Request processed successfully
+2021-11-25T17:15:14.232413+0300 INFO Response is НИНАШОЛ РКСОК/1.0
+
+
+2021-11-25T17:15:14.232602+0300 INFO Close connection with client ('127.0.0.1', 41858)
+2021-11-25T17:15:23.875809+0300 INFO receiving request...
+2021-11-25T17:15:23.957299+0300 INFO Send request from ('127.0.0.1', 41862) to validation server
+2021-11-25T17:15:24.001322+0300 INFO Close connection with validation server
+2021-11-25T17:15:24.002041+0300 INFO request processing allowed
+2021-11-25T17:15:24.006000+0300 INFO Request processed successfully
+2021-11-25T17:15:24.006272+0300 INFO Response is НОРМАЛДЫКС РКСОК/1.0
+
+
+2021-11-25T17:15:24.006480+0300 INFO Close connection with client ('127.0.0.1', 41862)
+2021-11-25T17:15:29.414643+0300 INFO receiving request...
+2021-11-25T17:15:29.546082+0300 INFO Send request from ('127.0.0.1', 41866) to validation server
+2021-11-25T17:15:29.581337+0300 INFO Close connection with validation server
+2021-11-25T17:15:29.581774+0300 INFO request processing allowed
+2021-11-25T17:15:29.585008+0300 INFO Request processed successfully
+2021-11-25T17:15:29.585351+0300 INFO Response is НОРМАЛДЫКС РКСОК/1.0
+
+
+2021-11-25T17:15:29.585622+0300 INFO Close connection with client ('127.0.0.1', 41866)
