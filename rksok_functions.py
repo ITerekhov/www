@@ -33,7 +33,9 @@ class Request:
         '''Function defines the attributes verb, name and phone'''
         self.list_data = self.request_decoded.split()
         self.verb = self.list_data[0]
-        if self.verb == REQUEST_VERB['WRITE']:
+        if self.verb not in REQUEST_VERB.values():
+            raise rksok_exceptions.IncorrectRKSOKRequest
+        elif self.verb == REQUEST_VERB['WRITE']:
             protocol = self.request_decoded.find(f'{PROTOCOL_VERSION}\r\n')
             if protocol == -1:
                 raise rksok_exceptions.IncorrectRKSOKRequest

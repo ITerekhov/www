@@ -11,7 +11,7 @@ async def run_process(reader: asyncio.streams.StreamReader, writer: asyncio.stre
     '''main client session'''
     client_peername = writer.get_extra_info('peername')
     try:
-        request_decoded = await asyncio.wait_for(network_requests.recieve_request(reader), timeout = 5)
+        request_decoded = await asyncio.wait_for(network_requests.recieve_request(reader), timeout = 20)
     except asyncio.TimeoutError:
         response = rksok_functions.rksok_incorrect_request()
     else:
